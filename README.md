@@ -40,3 +40,4 @@ Student-Result-Management-System/
 ├── settings.py
 ├── exit_page.py
 └── README.md
+<img width="1920" height="1080" alt="Screenshot 2026-09-22 111259" src="https://github.com/user-attachments/assets/36fea8db-fa64-487a-adb9-66f4f3ceb38c" />
